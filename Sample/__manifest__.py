@@ -31,7 +31,7 @@
 'author': ' ZestyBeanz Technologies',
 'website': 'www.zbeanztech.com',
 "license": "LGPL-3",
-'depends': [],
+'depends': [views/modelone_view.xml],
 'data': [],
 'test': [],
 'demo': [],
